@@ -1,0 +1,121 @@
+
+body{
+    background-color: rgb(104, 200, 230);
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+ height: 70px;
+ background-color: rgb(58, 58, 58);
+    padding:10px;
+    margin: 5px;
+}
+ ul{
+     
+     float: right;
+     padding: 15px;
+     margin: 10px;
+     
+    }
+    li{
+        display: inline;
+    }
+    a{
+        padding: 8px;
+        margin: 5px;
+        text-decoration: none;
+        border: 2px solid;
+        border-color: cornflowerblue;
+        border-radius: 23px;
+        background-color: rgb(233, 233, 219);
+        color: orangered;
+        font-size: 19px;
+    
+        
+    }
+a:hover{
+    color: chartreuse;
+    border-color: red;
+    background-color: rgb(66, 66, 68);
+    cursor: progress;
+    font-style: oblique 
+     
+
+}
+
+
+    .location{
+        padding-left: 20px;
+        margin:5px;
+    
+    
+    } 
+    
+    input{
+        padding: 15px;
+     
+    }
+    .select{
+        padding-left: 20px;
+        margin:5px;
+    
+    } 
+    select{
+        padding: 15px;
+        width: 312px;
+    }
+    .check{
+        padding-left: 20px;
+        margin:5px;
+        
+    
+    } 
+    .button{
+        padding-left: 20px;
+        margin:15px;
+        width:300px;
+        
+    
+    } 
+    button{
+        padding:12px;
+        margin: 10px;
+        border: 2px solid;
+        border-radius: 64px ;
+        border-color: rgb(219, 21, 21);
+        background-color: rgb(20, 16, 20);
+        color: white;
+        font-size: 18px ;
+        
+
+        
+    }
+    .type{
+        padding-left: 20px;
+        margin:5px;
+
+    }
+.pic{
+    float: right;
+
+    
+    margin:20px;
+    padding-top: 40px;
+    
+}
+.color{
+    background-color:lightgray;
+    padding: 45px;
+    margin:40px;
+    
+    
+}
+
+button:hover{
+    color: black;
+    border-color: green;
+    background-color: chartreuse;
+    cursor: alias ;
+    font-style: oblique
+}
